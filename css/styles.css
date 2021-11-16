@@ -175,6 +175,7 @@ body {
   color: var(--active-text-color);
   cursor: pointer;
   border: 0;
+  border-radius: 4px;
 }
 
 .portfolio-button {
@@ -188,6 +189,7 @@ body {
   color: var(--second-studio-color);
   cursor: pointer;
   border: 0;
+  border-radius: 4px;
 }
 
 .portfolio-button:hover,
