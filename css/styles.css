@@ -60,6 +60,7 @@ body {
   text-decoration: none;
   padding-bottom: 32px;
   padding-top: 32px;
+  display: flex;
 }
 .header-contacts:hover,
 .header-contacts:focus {
@@ -133,6 +134,7 @@ body {
   color: var(--second-studio-color);
   padding-bottom: 32px;
   padding-top: 32px;
+  display: flex;
 }
 
 .link:hover,
@@ -315,9 +317,7 @@ body {
   text-decoration: none;
   letter-spacing: 0.03em;
   color: var(--studio-color);
-}
-
-.footer-studio-name-block {
+  display: flex;
   margin-bottom: 20px;
 }
 
